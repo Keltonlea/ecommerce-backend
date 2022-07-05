@@ -15,6 +15,7 @@ ProductTag.init(
       autoIncrement: true,
     },
      //define product_id column
+     
      product_id: {
       type: DataTypes.INTEGER,
       //refernces product models id
