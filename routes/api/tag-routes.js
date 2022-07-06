@@ -21,6 +21,7 @@ router.get('/', (req, res) => {
     });
 });
 
+
 router.get('/:id', (req, res) => {
   // find a single tag by its `id`
   // be sure to include its associated Product data
@@ -78,7 +79,9 @@ router.put('/:id', (req, res) => {
         console.log(err); 
         res.status(500).json(err);
   });
+
 });
+
 
 router.delete('/:id', (req, res) => {
   // delete on tag by its `id` value
@@ -99,5 +102,6 @@ router.delete('/:id', (req, res) => {
         res.status(500).json(err);
   });
 });
+
 
 module.exports = router;
