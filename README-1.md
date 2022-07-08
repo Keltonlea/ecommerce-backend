@@ -17,6 +17,8 @@ This application displays creation of database using mySQL with models and assoc
 Demonstration Videos
 View video to see MySQL walk through via [Screencastify](https://drive.google.com/file/d/1qmqSBz07Z8U_U3szOPPNbYFQokn5CRvp/view)<br>
 
+View video to see Insomnia walk through via [Screencastify](https://drive.google.com/file/d/1f_zyPexR1tb70oALmkEXjwstSrZ3lApS/view)<br>
+
 
 
 ## Technologies
